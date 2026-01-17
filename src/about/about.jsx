@@ -22,7 +22,7 @@ export function About() {
                         <p>Hello again! since you are here,</p>
                         <p>A little about me.</p>
                         <p>I am a Frontend developer from <b>India</b>.</p>
-                        <p>I really enjoy shaping <span>visual experiences</span>, whether through <span>interface design</span>, <span>motion</span>, or carefully<span>crafted interactions</span> </p>
+                        <p>I really enjoy shaping <span>visual experiences</span>, whether through <span>interface design</span>, <span>motion</span>, or carefully <span>crafted interactions</span> </p>
                 </div>
                 </section>
               
