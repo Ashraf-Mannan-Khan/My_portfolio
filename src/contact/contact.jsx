@@ -7,7 +7,7 @@ export function Contact () {
         <section className={styles.conatiner} id="contact">
             <h2>Let's Get in Touch</h2>
             <p>I Love to connect</p>
-            <img src='src/image/icons/connect.avif' alt="connect-image" className={styles.image} />
+            <img src={contactImage} alt="connect-image" className={styles.image} />
             <div className={styles.information}>
                 <p>Email</p>
                 <p>ashrfkhn97@gmail.com</p>
